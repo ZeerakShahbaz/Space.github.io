@@ -1,0 +1,38 @@
+body {
+    background-color: midnightblue;
+    color: pink;
+    font-family: 'Agency FB', sans-serif;     
+    font-size: 22px;
+}
+    
+
+    body::-webkit-scrollbar {
+        width: 10px;
+        }
+    body::-webkit-scrollbar-track {
+        background: hotpink;
+        }
+    body::-webkit-scrollbar-thumb {
+        background-color: #82EEFD;
+        }
+
+
+    
+    .stroke2 {
+        color: hotpink;
+        font-size: 45px;
+        -webkit-text-stroke: 1px #82EEFD;
+    }
+
+                                                
+    .stroke {
+        color: hotpink;
+        font-size: 30px;
+        -webkit-text-stroke: 0.3px #82EEFD;
+    }
+
+
+    .colourchange {
+        color: arctic;
+    
+    }
